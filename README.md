@@ -16,10 +16,10 @@
 1. 在应用商店里搜索并安装tampermonkey扩展（油猴脚本）。
 
     这里使用edge为例，chrome,360等同理
-    ![search tampermonkey](images\tampermonkey.png)
+    ![search tampermonkey](images/tampermonkey.png)
 
 2. 单击tampermonkey插件，选择添加新脚本，将```thushijian_plugin.js```中的内容复制到代码页面，保存即可。
 
-    ![add scripts](images\add_scripts.png)
+    ![add scripts](images/add_scripts.png)
 
-    ![add scripts](images\replace.png)
+    ![add scripts](images/replace.png)
