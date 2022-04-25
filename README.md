@@ -18,7 +18,7 @@
     这里使用edge为例，chrome,360等同理
     ![search tampermonkey](images/tampermonkey.png)
 
-2. 单击tampermonkey插件，选择添加新脚本，将```thushijian_plugin.js```中的内容复制到代码页面，保存即可。
+2. 单击tampermonkey插件，选择添加新脚本，将[```thushijian_plugin.js```](thushijian_plugin.js)中的内容复制到代码页面，保存即可。
 
     ![add scripts](images/add_scripts.png)
 
