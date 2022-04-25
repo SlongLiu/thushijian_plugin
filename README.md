@@ -4,7 +4,7 @@
 
 ### 功能：
 
-你是否觉得当前清华博士生实践的选课网站（http://thshijian.tsinghua.edu.cn）不太好用？比如点击```申请```之后会在当前页面打开标签页，覆盖已有的状态。
+你是否觉得当前清华博士生实践的选课网站[http://thshijian.tsinghua.edu.cn](http://thshijian.tsinghua.edu.cn)不太好用？比如点击```申请```之后会在当前页面打开标签页，覆盖已有的状态。
 
 我也这么觉得，所以写个脚本调整一下。
 
